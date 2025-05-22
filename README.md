@@ -1,52 +1,28 @@
-# Projeto de Estatística Aplicada
+# Projeto de Mineração de Dados
 
 ## 🧑‍💻 Autores  
-- Nome 1 (matrícula) - email  
-- Nome 2 (matrícula) - email  
-- Nome 3 (matrícula) - email  
+- Eduardo Nogueira Alves (201921250032) - eduardo.nogueira@academico.ifpb.edu.br  
+- Arlan (matrícula) - email
 
 ## 🎯 Tema e Motivação  
-Descreva em até dois parágrafos o tema que será investigado no projeto e a motivação da equipe para essa escolha.  
-Explique por que esse tema é relevante ou interessante do ponto de vista estatístico ou social.
+Este projeto tem como objetivo analisar dados de jogadores de futebol para estimar a chance de seus times terminarem entre os primeiros colocados nos campeonatos em que disputam. A ideia é usar esses dados para criar modelos capazes de identificar padrões que influenciam o desempenho das equipes.
+
+A escolha do tema se justifica pelo crescente uso de dados no futebol profissional e pelo interesse em entender como o perfil dos jogadores pode impactar o sucesso dos times. Do ponto de vista estatístico, o projeto é relevante por permitir a aplicação de técnicas de modelagem preditiva com dados reais e variados.
 
 ## 📊 Conjunto de Dados Selecionado  
-- **Nome do conjunto de dados:**  
-  (Exemplo: "World Happiness Report", "ENEM 2023", "IBGE - PNAD Contínua", "Kaggle - Netflix Movies", etc.)
+- **Nome do conjunto de dados: **
 
-- **Fonte:**  
-  (Link ou citação da base de dados)
+  * Sofascore and Transfermarkt Football Data *
+  
+- **Fonte (Link) da Base de Dados: **
 
-- **Descrição breve:**  
-  Explique o que representa esse conjunto de dados, qual o escopo (temporal, geográfico, etc.), quais as principais variáveis presentes e o motivo pelo qual ele foi escolhido.  
-
+  * https://www.kaggle.com/datasets/felipesembay/sofascore-and-transfermarkt-football-data *
+  
 - **Justificativa para a escolha:**  
-  Indique por que esse conjunto de dados permite análises estatísticas interessantes e como ele pode responder a questões relevantes.
 
----
-
-## ❓ Perguntas ou Hipóteses  
-*Começar a planejar com perguntas de Estatística Descritiva*  
-Liste aqui as perguntas de pesquisa ou hipóteses estatísticas que o grupo pretende investigar com base nos dados.
-
-## 🔍 Metodologia  
-*A preencher na próxima etapa.*  
-Indique quais técnicas estatísticas serão utilizadas (análise exploratória, testes, correlações, modelos, etc.).
-
-## 🛠️ Ferramentas Utilizadas  
-*A preencher na próxima etapa.*  
-Quais linguagens, bibliotecas ou softwares serão utilizados no projeto.
-
-## 📈 Resultados  
-*A preencher após as análises.*  
-Resumo visual e interpretativo dos principais achados.
-
-## 📌 Conclusões  
-*A preencher no final do projeto.*  
-Síntese dos aprendizados e implicações das análises realizadas.
-
-## ⚠️ Limitações e Trabalhos Futuros  
-*A preencher no final do projeto.*  
-Quais foram as limitações do estudo e o que poderia ser feito com mais tempo ou dados adicionais.
+  O conjunto de dados utilizado no projeto é completo e permite análises estatísticas objetivas e relevantes. Ele inclui informações como gols marcados, cartões recebidos, valor de mercado dos jogadores, dados físicos e estatísticas das partidas,   o que possibilita avaliar com precisão a influência do desempenho individual no resultado coletivo dos times.
+  
+  Esses dados são suficientes para responder a questões importantes do projeto, como identificar padrões entre o perfil dos jogadores e a chance de seus times ficarem entre primeiros colocados nos campeonatos.
 
 ---
 
