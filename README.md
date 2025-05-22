@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Autores  
 - Eduardo Nogueira Alves (201921250032) - eduardo.nogueira@academico.ifpb.edu.br  
-- Arlan (matrícula) - email
+- Arlan (202011250027) - arlan.santos@academico.ifpb.edu.br
 
 ## 🎯 Tema e Motivação  
 Este projeto tem como objetivo analisar dados de jogadores de futebol para estimar a chance de seus times terminarem entre os primeiros colocados nos campeonatos em que disputam. A ideia é usar esses dados para criar modelos capazes de identificar padrões que influenciam o desempenho das equipes.
